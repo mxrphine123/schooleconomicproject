@@ -496,7 +496,7 @@ const REPORT_DATA = {
     {event: "Париж-2024", type: "Олимпиада", cost: 6.6, costUnit: "€ млрд", effect: "+0.07 п.п. ВВП", tourism: "Вытеснение –1.7%", result: "Скромный эффект", success: false},
     {event: "Германия-2006", type: "ЧМ", cost: 3, costUnit: "$ млрд", effect: "$11–12 млрд, 50К мест", tourism: "Рост", result: "Успешный кейс", success: true},
     {event: "ЮАР-2010", type: "ЧМ", cost: 4, costUnit: "$ млрд", effect: "+0.5% ВВП, 415К мест", tourism: "Рост", result: "Смешанный", success: false},
-    {event: "Россия-2018", type: "ЧМ", cost: 11.3, costUnit: "$ млрд", effect: "$15 млрд (1% ВВП)", tourism: "Рост", result: "Окупаемость?", success: true},
+    {event: "Россия-2018", type: "ЧМ", cost: 11.3, costUnit: "$ млрд", effect: "$15 млрд (1% ВВП)", tourism: "Рост", result: "Окупаемость", success: true},
     {event: "Катар-2022", type: "ЧМ", cost: 6.5, costUnit: "$ млрд", effect: "Часть «Видение 2030»", tourism: "Рост", result: "Диверсификация", success: true}
   ],
   mediaRights: [
